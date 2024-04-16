@@ -1,0 +1,1 @@
+console.log('Hej, detta är ert TypeScript Template!!!');
